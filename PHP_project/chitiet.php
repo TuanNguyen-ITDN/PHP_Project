@@ -1,4 +1,4 @@
-<?php 
+﻿<?php 
 include("addcard.php"); 
 include("connection_db.php");
 session_start(); 
@@ -311,3 +311,5 @@ $(document).on('click','a[data-role=delete]',function(){
 </script>
 
 </html>
+
+// Tuan test thu
